@@ -1,0 +1,3 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (cu1Dpara.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+  cubic1D.vcxproj -> C:\Users\samsung-pc\Desktop\proj\manybody\phononretardation\1D\CGAdensity\cpp\1DHHper\x64\Debug\1DHol.exe
